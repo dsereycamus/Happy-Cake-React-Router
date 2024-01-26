@@ -21,7 +21,7 @@ const Navigation = () => {
         </Navbar.Collapse>
         <Navbar.Brand>
           <Link to="/" className="text-decoration-none text-white p-2">
-            Happy Cake 🍰
+            Happy Cake🍰
           </Link>
         </Navbar.Brand>
       </Container>
